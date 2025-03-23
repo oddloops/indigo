@@ -1,0 +1,2 @@
+#INDIGO
+Basic scripting
