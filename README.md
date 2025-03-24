@@ -1,2 +1,2 @@
-#INDIGO
+# Indigo
 Basic scripting
